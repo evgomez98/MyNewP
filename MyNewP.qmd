@@ -1,0 +1,85 @@
+---
+title: ""
+date: ""
+number-sections: false
+format: 
+  html:
+    toc: true
+    toc-depth: 4
+    smooth-scroll: true
+    lang: es
+    toc-title: "Sobre mi"
+    df-print: paged
+---
+
+::: {style="display: flex; align-items: center;"}
+<figure style="margin: 0; display: flex; flex-direction: column; align-items: center;">
+
+<img src="images/image.jpeg" alt="Elianna Gomez Fragozo" width="137" height="206" style="margin-right: 20px;"/>
+
+<figcaption style="text-align: center;">
+
+</figcaption>
+
+</figure>
+
+<p style="margin: 0; text-align: justify;">
+
+Mi nombre es **Elianna Vanessa Gomez Fragozo**, guajira, nacida en Riohacha el 21 de febrero de 1998. Economista, con formación complementaria en diversos cursos y diplomados. Actualmente cursando la Maestría en Estadística Aplicada en la Universidad del Norte. Me encuentro desempeñando labores administrativas en la Universidad de La Guajira, en la oficina de Aseguramiento de la Calidad y como docente universitario en Econometría, en esta misma Institución. Mi desempeño académico ha sido distinguido con múltiples reconocimientos y menciones honoríficas a lo largo de mi vida universitaria.
+
+</p>
+:::
+
+<p style="margin-right: 20; justify;">
+
+# Formación 
+
+-   **Bachiller académico con énfasis microempresarial** (2015); _Institución Educativa Isabel María Cuesta González_ (Riohacha).
+
+-   **Pregrado en Contaduría Pública** (No culminado - 2016); _Universidad del Norte_ (Barranquilla).
+
+-   **Curso en Habilidades de presentación** (2021); _Fundación Carlos Slim_ (Virtual).
+
+-   **Curso en Protocolos de Atención y Servicio** (2021); _Fundación Carlos Slim_ (Virtual).
+
+-   **Pregrado en Economía** (2022); _Universidad de La Guajira_ (Riohacha).
+
+-   **Curso en Administración de Recursos Humanos** (2022); _SENA_ (Virtual).
+
+-   **Diplomado en Aseguramiento de la Calidad en la Educación Superior** (2022); _Universidad del Valle_ (Virtual).
+
+-   **Diplomado en Docencia y Didáctica Universitaria** (2023); _Politécnico Superior_ (Virtual).
+
+-   **Maestría en Estadística Aplicada (en curso)**; _Universidad del Norte_ (Barranquilla).
+
+# Experiencia 
+
+-   **Apoyo a los Procesos Administrativos** - Practicas Académicas (marzo 2022 - junio 2022); _Vicerrectoría de Calidad_ - Universidad de La Guajira.
+
+-   **Apoyo a los Procesos Administrativos** - (julio 2022 - diciembre 2022); _Aseguramiento de la Calidad_ - Universidad de La Guajira.
+
+-   **Coordinadora de Acreditación en Alta Calidad** - (enero 2023 - actual); _Aseguramiento de la Calidad_ - Universidad de La Guajira. ([ver equipo de trabajo aquí](https://uniguajira.edu.co/universidad-de-la-guajira/vicerrectoria-de-calidad/presentacion-de-la-direccion-de-aseguramiento-de-la-calidad/))
+
+-   **Docente catedrático** (julio 2023 - diciembre 2023); _Programa de Economía_ (Econometría I) - Universidad de La Guajira.
+
+-   **Docente catedrático** (febrero 2024 - actual); _Programa de Economía_ (Econometría I) - Universidad de La Guajira.
+
+# Distinciones 
+
+-   **Reconocimiento Académico** por desempeño académico en el programa de Economía (_Bienestar Social Universitario_ - 2018).
+
+-   **Mención de Honor** por desempeño académico en el Programa de Economía en los periodos 2018-I y 2018-II. (_Facultad de Ciencias Económicas y Administrativas & Programa de Economía_ - 2019).
+
+-   **Mención de Honor** por desempeño académico en el Programa de Economía en el periodos 2019-II. (_Facultad de Ciencias Económicas y Administrativas & Programa de Economía_ - 2020).
+
+-   **Mención de Honor** por desempeño académico en el Programa de Economía en los periodos 2020-I. (_Facultad de Ciencias Económicas y Administrativas & Programa de Economía_ - 2021).
+
+-   **Mención de Honor** por desempeño académico en el Programa de Economía en los periodos 2021-I. (Facultad de Ciencias Económicas y Administrativas/Programa de Economía - 2021).
+
+-   **Mención de Honor** por rendimiento académico en el Programa de Economía (Bienestar Social Universitario - 2021).
+
+-   **Reconocimiento a la Excelencia Académica** por destacar durante el curso del pregrado (Consejo Nacional Profesional de Economía - 2022).
+
+-   **Mención de Honor** por Mérito Académico (La República de Colombia, el Ministerio de Educación y la Universidad de La Guajira - 2022).
+
+</p>
